@@ -68,6 +68,6 @@ This project was developed as part of the **Object-Oriented Programming 2** cour
 
 ## 👨‍💻 Author
 
-**Md. Zunead Rahman**
+**Md. Zunaed Rahman**
 
 GitHub: [itszunaed](https://github.com/itszunaed)
