@@ -70,4 +70,4 @@ This project was developed as part of the **Object-Oriented Programming 2** cour
 
 **Md. Zunaed Rahman**
 
-GitHub: [itszunaed](https://github.com/itszunaed)
+GitHub: [itiszunaed](https://github.com/itiszunaed)
